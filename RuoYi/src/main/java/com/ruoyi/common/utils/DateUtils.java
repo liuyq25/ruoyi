@@ -1,9 +1,10 @@
 package com.ruoyi.common.utils;
 
+import org.apache.commons.lang3.time.DateFormatUtils;
+
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import org.apache.commons.lang3.time.DateFormatUtils;
 
 /**
  * 时间工具类
@@ -94,6 +95,7 @@ public class DateUtils
     public static final String dateTime()
     {
         Date now = new Date();
+        System.out.print("123");
         return DateFormatUtils.format(now, "yyyyMMdd");
     }
 
