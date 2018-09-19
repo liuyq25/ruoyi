@@ -1,0 +1,685 @@
+00:08:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+00:08:20.103 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+00:08:20.104 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-26 23:38:20(String)
+00:08:20.106 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+00:08:20.106 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+00:18:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+00:18:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+00:18:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-26 23:48:20(String)
+00:18:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+00:18:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+00:28:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+00:28:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+00:28:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-26 23:58:20(String)
+00:28:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+00:28:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+00:38:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+00:38:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+00:38:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 00:08:20(String)
+00:38:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+00:38:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+00:48:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+00:48:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+00:48:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 00:18:20(String)
+00:48:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+00:48:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+00:58:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+00:58:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+00:58:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 00:28:20(String)
+00:58:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+00:58:20.099 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+01:08:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+01:08:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+01:08:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 00:38:20(String)
+01:08:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+01:08:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+01:18:20.099 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+01:18:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+01:18:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 00:48:20(String)
+01:18:20.103 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+01:18:20.104 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+01:28:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+01:28:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+01:28:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 00:58:20(String)
+01:28:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+01:28:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+01:38:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+01:38:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+01:38:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 01:08:20(String)
+01:38:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+01:38:20.099 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+01:48:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+01:48:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+01:48:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 01:18:20(String)
+01:48:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+01:48:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+01:58:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+01:58:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+01:58:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 01:28:20(String)
+01:58:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+01:58:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+02:08:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+02:08:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+02:08:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 01:38:20(String)
+02:08:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+02:08:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+02:18:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+02:18:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+02:18:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 01:48:20(String)
+02:18:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+02:18:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+02:28:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+02:28:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+02:28:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 01:58:20(String)
+02:28:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+02:28:20.099 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+02:38:20.099 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+02:38:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+02:38:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 02:08:20(String)
+02:38:20.103 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+02:38:20.104 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+02:48:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+02:48:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+02:48:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 02:18:20(String)
+02:48:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+02:48:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+02:58:20.099 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+02:58:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+02:58:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 02:28:20(String)
+02:58:20.103 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+02:58:20.104 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+03:08:20.099 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+03:08:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+03:08:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 02:38:20(String)
+03:08:20.103 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+03:08:20.104 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+03:18:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+03:18:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+03:18:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 02:48:20(String)
+03:18:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+03:18:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+03:28:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+03:28:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+03:28:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 02:58:20(String)
+03:28:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+03:28:20.099 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+03:38:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+03:38:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+03:38:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 03:08:20(String)
+03:38:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+03:38:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+03:48:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+03:48:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+03:48:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 03:18:20(String)
+03:48:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+03:48:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+03:58:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+03:58:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+03:58:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 03:28:20(String)
+03:58:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+03:58:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+04:08:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+04:08:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+04:08:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 03:38:20(String)
+04:08:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+04:08:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+04:18:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+04:18:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+04:18:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 03:48:20(String)
+04:18:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+04:18:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+04:28:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+04:28:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+04:28:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 03:58:20(String)
+04:28:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+04:28:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+04:38:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+04:38:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+04:38:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 04:08:20(String)
+04:38:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+04:38:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+04:48:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+04:48:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+04:48:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 04:18:20(String)
+04:48:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+04:48:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+04:58:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+04:58:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+04:58:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 04:28:20(String)
+04:58:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+04:58:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+05:08:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+05:08:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+05:08:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 04:38:20(String)
+05:08:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+05:08:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+05:18:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+05:18:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+05:18:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 04:48:20(String)
+05:18:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+05:18:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+05:28:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+05:28:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+05:28:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 04:58:20(String)
+05:28:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+05:28:20.099 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+05:38:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+05:38:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+05:38:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 05:08:20(String)
+05:38:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+05:38:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+05:48:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+05:48:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+05:48:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 05:18:20(String)
+05:48:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+05:48:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+05:58:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+05:58:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+05:58:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 05:28:20(String)
+05:58:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+05:58:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+06:08:20.099 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+06:08:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+06:08:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 05:38:20(String)
+06:08:20.103 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+06:08:20.104 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+06:18:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+06:18:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+06:18:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 05:48:20(String)
+06:18:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+06:18:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+06:28:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+06:28:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+06:28:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 05:58:20(String)
+06:28:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+06:28:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+06:38:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+06:38:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+06:38:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 06:08:20(String)
+06:38:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+06:38:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+06:48:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+06:48:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+06:48:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 06:18:20(String)
+06:48:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+06:48:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+06:58:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+06:58:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+06:58:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 06:28:20(String)
+06:58:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+06:58:20.101 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+07:08:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+07:08:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+07:08:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 06:38:20(String)
+07:08:20.103 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+07:08:20.104 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+07:18:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+07:18:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+07:18:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 06:48:20(String)
+07:18:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+07:18:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+07:28:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+07:28:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+07:28:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 06:58:20(String)
+07:28:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+07:28:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+07:38:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+07:38:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+07:38:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 07:08:20(String)
+07:38:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+07:38:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+07:48:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+07:48:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+07:48:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 07:18:20(String)
+07:48:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+07:48:20.101 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+07:58:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+07:58:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+07:58:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 07:28:20(String)
+07:58:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+07:58:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+08:08:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+08:08:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+08:08:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 07:38:20(String)
+08:08:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+08:08:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+08:18:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+08:18:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+08:18:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 07:48:20(String)
+08:18:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+08:18:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+08:28:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+08:28:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+08:28:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 07:58:20(String)
+08:28:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+08:28:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+08:38:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+08:38:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+08:38:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 08:08:20(String)
+08:38:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+08:38:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+08:48:20.099 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+08:48:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+08:48:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 08:18:20(String)
+08:48:20.103 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+08:48:20.104 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+08:58:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+08:58:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+08:58:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 08:28:20(String)
+08:58:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+08:58:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+09:08:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+09:08:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+09:08:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 08:38:20(String)
+09:08:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+09:08:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+09:18:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+09:18:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+09:18:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 08:48:20(String)
+09:18:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+09:18:20.101 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+09:28:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+09:28:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+09:28:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 08:58:20(String)
+09:28:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+09:28:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+09:38:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+09:38:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+09:38:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 09:08:20(String)
+09:38:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+09:38:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+09:48:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+09:48:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+09:48:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 09:18:20(String)
+09:48:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+09:48:20.101 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+09:58:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+09:58:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+09:58:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 09:28:20(String)
+09:58:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+09:58:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+10:08:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+10:08:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+10:08:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 09:38:20(String)
+10:08:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+10:08:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+10:18:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+10:18:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+10:18:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 09:48:20(String)
+10:18:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+10:18:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+10:28:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+10:28:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+10:28:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 09:58:20(String)
+10:28:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+10:28:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+10:38:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+10:38:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+10:38:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 10:08:20(String)
+10:38:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+10:38:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+10:48:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+10:48:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+10:48:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 10:18:20(String)
+10:48:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+10:48:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+10:58:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+10:58:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+10:58:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 10:28:20(String)
+10:58:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+10:58:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+11:08:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+11:08:20.097 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+11:08:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 10:38:20(String)
+11:08:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+11:08:20.099 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+11:18:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+11:18:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+11:18:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 10:48:20(String)
+11:18:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+11:18:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+11:28:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+11:28:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+11:28:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 10:58:20(String)
+11:28:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+11:28:20.100 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+11:38:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+11:38:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+11:38:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 11:08:20(String)
+11:38:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+11:38:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+11:48:20.099 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+11:48:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+11:48:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 11:18:20(String)
+11:48:20.103 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+11:48:20.104 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+11:58:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+11:58:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+11:58:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 11:28:20(String)
+11:58:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+11:58:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+12:08:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+12:08:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+12:08:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 11:38:20(String)
+12:08:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+12:08:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+12:18:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+12:18:20.105 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+12:18:20.106 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 11:48:20(String)
+12:18:20.109 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+12:18:20.110 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+12:28:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+12:28:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+12:28:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 11:58:20(String)
+12:28:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+12:28:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+12:38:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+12:38:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+12:38:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 12:08:20(String)
+12:38:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+12:38:20.100 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+12:48:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+12:48:20.104 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+12:48:20.105 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 12:18:20(String)
+12:48:20.107 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+12:48:20.107 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+12:58:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+12:58:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+12:58:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 12:28:20(String)
+12:58:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+12:58:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+13:08:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+13:08:20.104 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+13:08:20.105 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 12:38:20(String)
+13:08:20.107 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+13:08:20.108 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+13:18:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+13:18:20.103 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+13:18:20.104 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 12:48:20(String)
+13:18:20.106 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+13:18:20.107 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+13:28:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+13:28:20.104 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+13:28:20.105 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 12:58:20(String)
+13:28:20.107 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+13:28:20.108 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+13:38:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+13:38:20.103 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+13:38:20.104 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 13:08:20(String)
+13:38:20.106 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+13:38:20.106 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+13:48:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+13:48:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+13:48:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 13:18:20(String)
+13:48:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+13:48:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+13:58:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+13:58:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+13:58:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 13:28:20(String)
+13:58:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+13:58:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+14:08:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+14:08:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+14:08:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 13:38:20(String)
+14:08:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+14:08:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+14:18:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+14:18:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+14:18:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 13:48:20(String)
+14:18:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+14:18:20.100 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+14:28:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+14:28:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+14:28:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 13:58:20(String)
+14:28:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+14:28:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+14:38:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+14:38:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+14:38:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 14:08:20(String)
+14:38:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+14:38:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+14:48:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+14:48:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+14:48:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 14:18:20(String)
+14:48:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+14:48:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+14:58:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+14:58:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+14:58:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 14:28:20(String)
+14:58:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+14:58:20.099 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+15:08:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+15:08:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+15:08:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 14:38:20(String)
+15:08:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+15:08:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+15:18:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+15:18:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+15:18:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 14:48:20(String)
+15:18:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+15:18:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+15:28:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+15:28:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+15:28:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 14:58:20(String)
+15:28:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+15:28:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+15:38:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+15:38:20.097 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+15:38:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 15:08:20(String)
+15:38:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+15:38:20.099 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+15:48:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+15:48:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+15:48:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 15:18:20(String)
+15:48:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+15:48:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+15:58:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+15:58:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+15:58:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 15:28:20(String)
+15:58:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+15:58:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+16:08:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+16:08:20.097 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+16:08:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 15:38:20(String)
+16:08:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+16:08:20.099 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+16:18:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+16:18:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+16:18:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 15:48:20(String)
+16:18:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+16:18:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+16:28:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+16:28:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+16:28:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 15:58:20(String)
+16:28:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+16:28:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+16:38:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+16:38:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+16:38:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 16:08:20(String)
+16:38:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+16:38:20.100 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+16:48:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+16:48:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+16:48:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 16:18:20(String)
+16:48:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+16:48:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+16:58:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+16:58:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+16:58:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 16:28:20(String)
+16:58:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+16:58:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+17:08:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+17:08:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+17:08:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 16:38:20(String)
+17:08:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+17:08:20.099 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+17:18:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+17:18:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+17:18:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 16:48:20(String)
+17:18:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+17:18:20.101 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+17:28:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+17:28:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+17:28:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 16:58:20(String)
+17:28:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+17:28:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+17:38:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+17:38:20.097 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+17:38:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 17:08:20(String)
+17:38:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+17:38:20.099 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+17:48:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+17:48:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+17:48:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 17:18:20(String)
+17:48:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+17:48:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+17:58:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+17:58:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+17:58:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 17:28:20(String)
+17:58:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+17:58:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+18:08:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+18:08:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+18:08:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 17:38:20(String)
+18:08:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+18:08:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+18:18:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+18:18:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+18:18:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 17:48:20(String)
+18:18:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+18:18:20.101 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+18:28:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+18:28:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+18:28:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 17:58:20(String)
+18:28:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+18:28:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+18:38:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+18:38:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+18:38:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 18:08:20(String)
+18:38:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+18:38:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+18:48:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+18:48:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+18:48:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 18:18:20(String)
+18:48:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+18:48:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+18:58:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+18:58:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+18:58:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 18:28:20(String)
+18:58:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+18:58:20.099 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+19:08:20.098 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+19:08:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+19:08:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 18:38:20(String)
+19:08:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+19:08:20.103 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+19:18:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+19:18:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+19:18:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 18:48:20(String)
+19:18:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+19:18:20.101 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+19:28:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+19:28:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+19:28:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 18:58:20(String)
+19:28:20.102 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+19:28:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+19:38:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+19:38:20.097 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+19:38:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 19:08:20(String)
+19:38:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+19:38:20.099 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+19:48:20.097 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+19:48:20.098 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+19:48:20.099 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 19:18:20(String)
+19:48:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+19:48:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+19:58:20.099 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+19:58:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+19:58:20.100 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 19:28:20(String)
+19:58:20.101 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+19:58:20.102 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+22:01:43.027 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+22:01:43.028 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+22:01:43.029 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 21:31:43(String)
+22:01:43.031 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+22:01:43.032 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+22:01:43.032 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+22:01:43.033 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+22:01:43.033 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 21:31:43(String)
+22:01:43.034 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+22:01:43.035 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+22:01:43.035 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+22:01:43.036 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+22:01:43.036 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 21:31:43(String)
+22:01:43.038 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+22:01:43.039 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+22:01:43.039 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+22:01:43.040 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+22:01:43.040 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 21:31:43(String)
+22:01:43.041 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+22:01:43.042 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+22:01:43.042 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+22:01:43.043 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+22:01:43.043 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 21:31:43(String)
+22:01:43.045 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+22:01:43.045 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+22:01:43.046 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+22:01:43.046 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+22:01:43.047 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 21:31:43(String)
+22:01:43.048 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+22:01:43.049 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+22:01:43.049 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+22:01:43.050 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+22:01:43.050 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 21:31:43(String)
+22:01:43.052 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+22:01:43.052 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+22:01:43.053 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+22:01:43.054 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+22:01:43.054 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 21:31:43(String)
+22:01:43.055 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+22:01:43.056 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+22:01:43.056 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+22:01:43.057 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+22:01:43.058 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 21:31:43(String)
+22:01:43.059 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+22:01:43.060 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+22:01:43.060 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+22:01:43.061 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+22:01:43.061 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 21:31:43(String)
+22:01:43.062 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+22:01:43.062 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+22:01:43.063 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+22:01:43.063 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+22:01:43.063 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 21:31:43(String)
+22:01:43.064 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+22:01:43.065 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+22:01:43.065 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+22:01:43.065 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+22:01:43.066 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 21:31:43(String)
+22:01:43.066 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+22:01:43.067 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+22:08:20.087 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+22:08:20.088 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+22:08:20.088 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 21:38:20(String)
+22:08:20.089 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+22:08:20.090 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+22:18:20.087 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+22:18:20.088 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+22:18:20.088 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 21:48:20(String)
+22:18:20.090 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+22:18:20.090 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+22:28:20.088 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+22:28:20.089 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+22:28:20.090 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 21:58:20(String)
+22:28:20.092 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+22:28:20.092 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+22:38:20.087 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+22:38:20.088 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+22:38:20.088 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 22:08:20(String)
+22:38:20.090 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+22:38:20.090 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.
+22:48:20.088 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - invalidation sessions...
+22:48:20.089 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==>  Preparing: SELECT * FROM sys_user_online o WHERE o.last_access_time <= ? ORDER BY o.last_access_time ASC 
+22:48:20.090 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - ==> Parameters: 2018-07-27 22:18:20(String)
+22:48:20.092 [pool-2-thread-1] DEBUG com.ruoyi.project.monitor.online.mapper.UserOnlineMapper.selectOnlineByExpired - <==      Total: 0
+22:48:20.093 [pool-2-thread-1] INFO  com.ruoyi.framework.shiro.web.session.OnlineWebSessionManager - Finished invalidation session. No sessions were stopped.

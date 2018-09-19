@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: RuoYi
+Implementation-Version: 1.1.4
+Built-By: liuyangqi
+Implementation-Vendor-Id: com.ruoyi
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_162
+Main-Class: ${start-class}
+
